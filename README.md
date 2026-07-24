@@ -46,7 +46,6 @@ All private keys are stored locally on your device in encrypted form. The wallet
 - Add, increase, and remove stakes
 - Move stakes between neuronets
 - APY calculation and emission tracking
-- Hotkey management (create, import, register on neuronets)
 
 ### Multisig Wallets
 - Create multi-signature wallets with custom threshold
@@ -54,16 +53,6 @@ All private keys are stored locally on your device in encrypted form. The wallet
 - Real-time synchronization with on-chain multisig state
 - Track pending approvals from all signatories
 
-### Neuronets Explorer
-- **Metagraph** — view all registered neurons (validators and miners)
-- **Registration** — register new validators/miners, view registration costs
-- **Distribution** — emission and stake distribution across neuronets
-- **Miner Weights** — weight distribution and consensus data
-
-### Liquidity
-- Create and manage liquidity positions
-- Configure price ranges
-- Track earned fees (AET and QUANT)
 
 ### Security
 - Private keys encrypted and stored locally only
