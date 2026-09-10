@@ -73,7 +73,6 @@ All private keys are stored locally on your device in encrypted form. The wallet
 |----------|--------|--------------|
 | macOS    | `.dmg` | Universal (Apple Silicon + Intel) |
 | Windows  | `.exe` (NSIS installer) | x64 |
-| Linux    | `.AppImage` | x64 |
 
 ## Installation
 
@@ -81,7 +80,6 @@ All private keys are stored locally on your device in encrypted form. The wallet
 2. Download the installer for your platform:
    - **macOS**: `AETRON-Wallet-x.x.x-universal.dmg`
    - **Windows**: `AETRON-Wallet-Setup-x.x.x.exe`
-   - **Linux**: `AETRON-Wallet-x.x.x.AppImage`
 3. Run the installer and follow the on-screen instructions
 
 > **macOS users**: If you see a "damaged" or "unidentified developer" warning, right-click the app and select "Open", or go to System Settings > Privacy & Security and allow the app.
